@@ -1,0 +1,12 @@
+{
+    "name": "teguhpanjaitan/binance-autosell",
+    "description": "Auto sell crypto to a market once deposit confirmed",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Teguh",
+            "email": "teguhpanjaitan@gmail.com"
+        }
+    ],
+    "require": {}
+}
